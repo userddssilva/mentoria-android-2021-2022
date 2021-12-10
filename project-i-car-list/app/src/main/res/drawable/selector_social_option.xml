@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/shape_background_social" android:state_focused="false" />
+    <item android:drawable="@drawable/shape_login_background" android:state_pressed="true" />
+
+</selector>
